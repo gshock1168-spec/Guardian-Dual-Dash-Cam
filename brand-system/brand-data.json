@@ -1,0 +1,63 @@
+{
+  "brandName": "Guardian Dual Dash Cam",
+  "shortName": "Guardian",
+  "tagline": "Protect Every Drive.",
+  "supportingTagline": "Your drive. Your evidence. Your Guardian.",
+  "descriptor": "Mobile dual dash cam and driving protection app",
+  "mission": "Help drivers protect themselves, their passengers, and their side of the story through reliable dual-camera recording, trip documentation, and privacy-focused local storage.",
+  "audiences": [
+    "Rideshare drivers",
+    "Delivery drivers",
+    "Commuters",
+    "Road-trip travelers",
+    "Parents of new drivers",
+    "Commercial drivers"
+  ],
+  "features": [
+    "Road and cabin recording on supported devices",
+    "Optional audio recording",
+    "GPS speed, street, date, time, and trip telemetry",
+    "Collision detection and protected clips",
+    "Loop recording and automatic storage management",
+    "Background recording and screen dimming",
+    "Quick evidence sharing",
+    "Local-device storage",
+    "No ads"
+  ],
+  "colors": {
+    "Guardian Graphite": "#11151A",
+    "Steel Charcoal": "#2E3940",
+    "Guardian Silver": "#C9CED2",
+    "Precision White": "#F7F9FA",
+    "Recording Red": "#F04444",
+    "Guardian Violet": "#B9A0FF",
+    "Protected Green": "#42C95A",
+    "Telemetry Blue": "#3D8FEF",
+    "Warning Amber": "#F5A623"
+  },
+  "typography": {
+    "headlines": "Montserrat",
+    "body": "Inter",
+    "telemetry": "Rajdhani"
+  },
+  "voice": [
+    "Protective",
+    "Confident",
+    "Clear",
+    "Modern",
+    "Calm under pressure",
+    "Privacy-focused"
+  ],
+  "approvedClaims": [
+    "Helps document the road and cabin",
+    "Can help preserve important footage after an impact",
+    "Keeps recordings on the user's device unless they choose to share",
+    "Makes important clips easier to review and share"
+  ],
+  "avoidClaims": [
+    "Prevents accidents",
+    "Automatically proves fault",
+    "Guarantees legal or insurance outcomes",
+    "Replaces emergency services"
+  ]
+}
